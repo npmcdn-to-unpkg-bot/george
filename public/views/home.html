@@ -1,0 +1,18 @@
+<div class="container-fluid">
+<section id="header">
+<div class="row">
+  <div class="col-md-2 col-md-offset-1">
+  <h4>media</h4>
+</div>
+</div>
+</section>
+<div class="row">
+    <div class="col-md-12">
+      <div masonry  column-width="200" reload-on-resize>
+          <div class="masonry-brick" ng-repeat="brick in bricks">
+              <img ng-src="/images/{{ brick.filename }}" alt="A masonry brick" ng-if="brick.type != 'mp4'">
+          </div>
+      </div>
+    </div>
+</div>
+</div>

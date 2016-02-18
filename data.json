@@ -1,0 +1,52 @@
+[
+  {
+    "name": "movie",
+    "type": "mp4",
+    "filename": "1.mp4"
+  },
+  {
+    "name": "",
+        "type": "mp4",
+    "filename": "2.mp4"
+  },
+  {
+    "name": "",
+    "type": "JPEG",
+    "filename": "3.jpg"
+  },
+  {
+    "name": "wiZZY",
+        "type": "JPEG",
+    "filename": "5.jpg"
+  },
+  {
+    "name": "",
+        "type": "JPEG",
+    "filename": "6.jpg"
+  },
+  {
+    "name": "",
+        "type": "JPEG",
+    "filename": "7.jpg"
+  },
+  {
+    "name": "",
+        "type": "JPEG",
+    "filename": "8.jpg"
+  },
+  {
+    "name": "",
+        "type": "JPEG",
+    "filename": "george.jpg"
+  },
+  {
+    "name": "",
+        "type": "JPEG",
+    "filename": "george2.jpg"
+  },
+  {
+    "name": "",
+        "type": "JPEG",
+    "filename": "unnamed.jpg"
+  }
+]

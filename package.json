@@ -1,0 +1,42 @@
+{
+  "name": "George",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.3",
+    "foreman": "1.4.1",
+    "lodash": "^4.0.0",
+    "method-override": "^2.3.5",
+    "moment": "^2.10.6",
+    "mongoose": "^4.3.4",
+    "morgan": "^1.6.1"
+  },
+  "engines": {
+    "node": "4.2.3"
+  },
+  "scripts": {
+    "start": "nf start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaylorAckley/issuefy.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "boilerplate",
+    "front-end",
+    "app",
+    "single-page",
+    "spa"
+  ],
+  "author": "TA",
+  "docs": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
